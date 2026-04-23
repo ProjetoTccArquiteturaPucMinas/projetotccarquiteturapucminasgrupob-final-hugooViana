@@ -1,6 +1,6 @@
 ﻿# Sistema de Cálculo de Descontos para Marketplace 
  
-## Seu Nome:
+## Seu Nome: Hugo viana Tinoco
 
 ## Visão Geral do Projeto
 
